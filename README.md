@@ -1,1 +1,3 @@
-# cs50
+# Description
+Converts text from uppercase to lowercase
+
